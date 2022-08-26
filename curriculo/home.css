@@ -1,0 +1,79 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header {
+    background-color: #e9d3d2;
+    text-align: center; 
+    padding-bottom: 2%;
+}
+img{
+    width: 08%;
+    border-radius: 15%;
+    margin-top: 2%;
+    border: 2px solid white;
+}
+button{
+    display: inline;
+    font-size: 18px;
+    margin: 10px;
+    padding: 6px ;
+    background-color: #dfafac;
+    border-radius: 20px;
+    border: 1px solid;
+    margin-top: 2%;
+}
+.botao{
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: #674789;
+}
+a:active{
+    color: #674789;
+    text-decoration:underline ;
+}
+.sobremim{
+    max-width: 80%;
+    text-align: justify ;
+    font-size: 17px;
+    margin-left: 100px;
+}
+.foto-um{
+    width: 18%;
+    border-radius: 10%;
+    position: relative;
+    float: right;
+    right: 0px;
+    margin-left: 2%;
+    border: 1px solid;    
+}
+.meushobbies{
+    max-width: 80%;
+    text-align: justify ;
+    font-size: 17px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.foto-dois{
+    width: 18%;
+    border-radius: 10%;
+    position: relative;
+    float: left;
+    right: 0px;
+    margin-left: 6%;
+    border: 1px solid; 
+    margin-right: 2%;
+}
+body{
+    background: linear-gradient(#e9c4c2, white);
+    margin-bottom: 20%;
+    height: 100vh;
+}
+p{
+    font-size: 18px;
+}
