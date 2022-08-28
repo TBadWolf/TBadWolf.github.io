@@ -84,16 +84,17 @@ body{
 }
 .sobremim{
     margin-left: 4%;
-    margin-right: 4%;
 }
 .meushobbies{
     margin-left: 4%;
-    margin-right: 4%;
 }
 img{
     width: 10%;
 }
 h1{
-    font-size: smaller;
+    font-size: 15px;
+}
+h2{
+    font-size: 15px;
 }
 }
