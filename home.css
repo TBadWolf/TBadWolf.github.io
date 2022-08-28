@@ -76,7 +76,7 @@ body{
 p{
     font-size: 18px;
 }
-@media (max-width: 900px), handheld and (orientation: landscape){
+@media (max-width: 992px){
 body{
     width: auto;
     height: 250vh;
