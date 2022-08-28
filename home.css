@@ -78,7 +78,6 @@ p{
 }
 @media (max-width: 992px){
 body{
-    width: auto;
     height: 250vh;
 }
 .sobremim{
