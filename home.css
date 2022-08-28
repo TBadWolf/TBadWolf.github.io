@@ -81,6 +81,7 @@ p{
 @media (max-width: 720px){
 body{
     height: 100%;
+    margin: 5%;
 }
 .sobremim{
     margin-left: 8%;
