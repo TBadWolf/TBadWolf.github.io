@@ -73,6 +73,7 @@ a:active{
 body{
     background: linear-gradient(#e9c4c2, white);
     height: 100%;
+    margin-bottom: 20%;
 }
 p{
     font-size: 18px;
