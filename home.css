@@ -85,11 +85,17 @@ body{
 .sobremim{
     margin-left: 4%;
 }
+.foto-um{
+    width: 22%;
+}
 .meushobbies{
     margin-left: 4%;
 }
+.foto-dois{
+    width: 22%;
+}
 img{
-    width: 18%;
+    width: 26%;
 }
 h1{
     font-size: 15px;
