@@ -81,16 +81,14 @@ p{
 @media (max-width: 720px){
 body{
     height: 100%;
-    margin: 5%;
+    margin:0 5% 5% 5%;
 }
-.sobremim{
-    margin-left: 8%;
+header{
+    
 }
+
 .foto-um{
     width: 22%;
-}
-.meushobbies{
-    margin-left: 8%;
 }
 .foto-dois{
     width: 22%;
