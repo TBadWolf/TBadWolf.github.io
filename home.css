@@ -11,16 +11,16 @@ img{
     width: 8%;
     border-radius: 15%;
     margin-top: 2%;
-    border: 2px solid white;
+    border: 2px solid #b1807c;
 }
 button{
     display: inline;
     font-size: 18px;
     margin: 1%;
-    padding: 0.5% ;
+    padding: 1.5% ;
     background-color: #dfafac;
     border-radius: 20px;
-    border: 1px solid;
+    border: 2px solid #b1807c;
     margin-top: 2%;
 }
 .botao{
@@ -49,8 +49,8 @@ a:active{
     position: relative;
     float: right;
     right: 0px;
-    margin-left: 2%;
-    border: 1px solid;    
+    margin-left: 4%;
+    border: 2px solid;    
 }
 .meushobbies{
     max-width: 80%;
@@ -66,9 +66,8 @@ a:active{
     position: relative;
     float: left;
     right: 0px;
-    margin-left: 6%;
-    border: 1px solid; 
-    margin-right: 2%;
+    border: 2px solid; 
+    margin-right: 4%;
 }
 body{
     background: linear-gradient(#e9c4c2, white);
@@ -77,6 +76,11 @@ body{
 }
 p{
     font-size: 18px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 3%;
 }
 @media (max-width: 720px){
 body{
@@ -96,5 +100,11 @@ h1{
 }
 h2{
     font-size: 25px;
+}
+.meushobbies, .sobremim{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 6%;
+
 }
 }
