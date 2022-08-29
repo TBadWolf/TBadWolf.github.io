@@ -63,7 +63,8 @@ div{
         font-size: 25px;
     }
     .certificado{
-        width: 25%;
+        width: 40%;
         margin: 5%;
+        flex-direction: column;
     }
 }
