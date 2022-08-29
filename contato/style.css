@@ -81,7 +81,7 @@ body{
         font-size: 25px;
     }
     .contato{
-        width: 15%;
+        width: 30%;
         margin-top: 4%;
         margin-right: 3%;
         background-color: #dfafac;
@@ -89,7 +89,7 @@ body{
         border: 1px solid;
     }
     .logocontato{
-        width: 150%;
+        width: 120%;
         margin: 2%;      
     }
 }
