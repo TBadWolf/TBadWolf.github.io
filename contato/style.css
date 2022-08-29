@@ -2,8 +2,10 @@
     padding: 0%;
     margin: 0%;
 }
-h4{
-    text-decoration: underline;
+body{
+    background: linear-gradient(#e9c4c2, white);
+    height: 100%;
+    margin-bottom: 100%;
 }
 header {
     background-color: #e9d3d2;
@@ -25,6 +27,12 @@ header {
     border-radius: 20px;
     border: 2px solid #b1807c;
     margin-top: 2%;
+}
+.botaomenu:hover{
+    background-color: #b1807c;
+}
+.botaomenu:active{
+    background-color:#a5706b ;
 }
 .botao{
     text-align: center;
@@ -52,7 +60,7 @@ a:active{
     background-color: #b69dd3;
 }
 .contato:active{
-    background-color: #ae8ad6;
+    background-color: #674789;
 }
 .logocontato{
     width: 90%;
@@ -64,13 +72,11 @@ h1{
     margin-bottom: 3%;
     margin-top: 3%;
 }
+h4{
+    text-decoration: underline;
+}
 div{
     margin-left: 15%;
-}
-body{
-    background: linear-gradient(#e9c4c2, white);
-    height: 100%;
-    margin-bottom: 100%;
 }
 @media (max-width: 720px){
     body{

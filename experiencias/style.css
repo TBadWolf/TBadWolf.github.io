@@ -2,8 +2,10 @@
     padding: 0%;
     margin: 0%;
 }
-h4{
-    text-decoration: underline;
+body{
+    background: linear-gradient(#e9c4c2, white);
+    height: 100%;
+    margin-bottom: 100%;
 }
 header {
     background-color: #e9d3d2;
@@ -26,6 +28,12 @@ button{
     border: 2px solid #b1807c;
     margin-top: 2%;
 }
+button:hover{
+    background-color: #b1807c;
+}
+button:active{
+    background-color:#a5706b ;
+}
 .botao{
     text-align: center;
 }
@@ -44,6 +52,14 @@ div{
     margin-top: 4%;
     margin-bottom: 4%;
 }
+h1, h4{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+h4{
+    text-decoration: underline;
+}
 p{
     text-align: justify;
     max-width: 90%;
@@ -58,16 +74,6 @@ p{
     margin-left: 4%;   
     border-radius: 15%;
     margin-top: 2%;
-}
-body{
-    background: linear-gradient(#e9c4c2, white);
-    height: 100%;
-    margin-bottom: 100%;
-}
-h1, h4{
-    text-align: center;
-    margin-bottom: 3%;
-    margin-top: 3%;
 }
 @media (max-width: 720px){
     .logo{
