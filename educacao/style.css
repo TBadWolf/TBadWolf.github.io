@@ -52,7 +52,7 @@ a:active{
 }
 .conteudo{
     margin-left: 6%;
-    margin-bottom: 4%;
+    margin-bottom: 6%;
     margin-top: 2%;
 }
 
@@ -61,10 +61,7 @@ a:active{
     position:relative;
     float: left;    
     margin-right: 2%;
-    border-radius: 8%;
-    display: block;
-    margin-bottom: 10%;
-    
+    border-radius: 8%; 
 }
 p{
     font-size: 18px;
