@@ -81,6 +81,7 @@ body{
         font-size: 25px;
     }
     .logocontato{
-        align-items: center;
+        justify-content:  center;
+
     }
 }
