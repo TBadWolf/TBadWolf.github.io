@@ -4,8 +4,8 @@
 }
 body{
     background: linear-gradient(#e9c4c2, white);
+    height: 100%;
     margin-bottom: 20%;
-    height: 500vh;
 }
 h4{
     text-decoration: underline;
@@ -15,7 +15,7 @@ header {
     text-align: center; 
 }
 .logo{
-    width: 08%;
+    width: 8%;
     border-radius: 15%;
     margin-top: 2%;
     border: 2px solid white;
@@ -23,8 +23,8 @@ header {
 button{
     display: inline;
     font-size: 18px;
-    margin: 10px;
-    padding: 6px ;
+    margin: 1%;
+    padding: 0.5% ;
     background-color: #dfafac;
     border-radius: 20px;
     border: 1px solid;
@@ -48,7 +48,22 @@ div{
     margin-left: 5%;
 }
 .certificado{
-    width: 550px;
+    width: 40%;
     margin: 2%;
     border: 3px solid;
+}
+@media (max-width: 720px){
+    .logo{
+        width: 30%;
+    }
+    h1{
+        font-size: 25px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    .certificado{
+        width: 25%;
+        margin: 5%;
+    }
 }
