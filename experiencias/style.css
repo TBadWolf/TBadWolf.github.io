@@ -75,4 +75,9 @@ body{
     .logo-empresas{
         width: 20%;
     }
+    div{
+        margin-left: 4%;
+        margin-right: 4%;
+        margin-top: 3%;
+    }
 }
