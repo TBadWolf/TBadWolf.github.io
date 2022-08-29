@@ -81,12 +81,7 @@ p{
 @media (max-width: 720px){
 body{
     height: 100%;
-    margin:0 5% 5% 5%;
 }
-header{
-    
-}
-
 .foto-um{
     width: 22%;
 }
@@ -97,9 +92,9 @@ img{
     width: 26%;
 }
 h1{
-    font-size: 15px;
+    font-size: 25px;
 }
 h2{
-    font-size: 15px;
+    font-size: 25px;
 }
 }
