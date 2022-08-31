@@ -11,6 +11,7 @@ body{
 h1{
     text-align: center;
     margin-top: 3%;
+    font-size: 25px;
 }
 h4{
     text-decoration: underline;
@@ -60,6 +61,7 @@ a:active{
 .conteudo{
     margin-bottom: 2%;
     text-align: center;
+    padding-bottom: 1%;
 }
 .foto{
     width:200px;
@@ -67,16 +69,17 @@ a:active{
     float:inline-end;   
     margin-right: 2%;
     border-radius: 8%;
+    padding-top: 1%;
 }
 p{
     font-size: 18px;
 }
 @media (max-width: 720px){
 .logo{
-    width: 30%;
-}
+    width: 130px;
+ }
 h1{
-    font-size: 20px;
+    font-size: 25px;
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -89,6 +92,7 @@ h3{
 .conteudo{
     margin-left: 10%;
     margin-right: 10%;
+    border: 2px solid #c09996;
 }
 .foto{
     width: 30%;

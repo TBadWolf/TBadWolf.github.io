@@ -84,7 +84,7 @@ div{
 }
 @media (max-width: 720px){
     .logo{
-        width: 30%;
+        width: 130px;
     }
     h1{
         font-size: 25px;
@@ -110,5 +110,8 @@ div{
         margin-left: 10%;
         margin-right: 10%;
         margin-top: 6%;
+        border: 2px solid #c09996;
+        padding-top: 2%;
+        padding-bottom: 2%;
     }
 }
